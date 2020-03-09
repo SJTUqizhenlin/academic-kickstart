@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "desktop"
+  icon = "keyboard"
   icon_pack = "fab"
   name = "Programming"
   description = "90%"
