@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhenlin (Lyndon) Qi (Chi)
+name: Zhenlin Qi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student at Shanghai Jiao Tong University
+role: Undergraduate student, School of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
+  # - course: MEng in Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   year: 2009
+  - course: Bachelor in Computer Science
+    institution: Shanghai Jiao Tong University
+    year: 2016 -- now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'qizhenlin1998@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:qizhenlin1998@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/qizhenlin1998
@@ -65,9 +65,9 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am an undergraduate student at SJTU, major in computer science. 
